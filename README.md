@@ -2,7 +2,7 @@
 
 ## Programación de Inteligencia Artificial del curso de Big Data
 
-** TAREA **
+**TAREA**
 
 Tras concluir el proceso de registro
 
